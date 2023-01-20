@@ -1,14 +1,4 @@
-.make-defi{
-    width: 500px;
-    height: 500px;
-    display: flex;
-}
 
-.pro-bar{
-    background-color: red;
-    transition: all 0.5s ease;
-}
-
-.pro-bar:hover{
-    width: 25% ;
+.bz-light-red{
+    background-color: red !important;
 }
